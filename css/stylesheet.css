@@ -1,0 +1,22 @@
+body { 
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+  color: rgb(0, 183, 255);
+  background-image: img/316124.jpg;
+  background-size: cover;
+  background: url('img/316124.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+}
+
+h1, h2, strong {
+  color: rgb(255, 249, 249);
+}
